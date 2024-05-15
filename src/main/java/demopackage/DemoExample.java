@@ -17,5 +17,8 @@ public class DemoExample {
 
         System.out.println("checkout kamal");
 
+
+        System.out.println("getMapping");
+
     }
 }
