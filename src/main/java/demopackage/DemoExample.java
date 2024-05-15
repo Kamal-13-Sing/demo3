@@ -10,6 +10,7 @@ public class DemoExample {
 
 
         System.out.println("Sum is: "+DemoExample.sum(2,5));
+        System.out.println("Hello kamal");
 
 
     }
